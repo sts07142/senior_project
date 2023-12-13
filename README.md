@@ -120,14 +120,14 @@
 
 # 3. Result[↑](https://github.com/sts07142/senior_project#index)
 
-|  Sign Up/Login  |  Register Child     |  Set Main Child   |
-|:---------------:|:-------------------:|:-----------------:|
-|      gif        |           gif       |        gif        |
+|  Sign Up/Login   |  Register Child     |  Set Main Child   |
+|:----------------:|:-------------------:|:-----------------:|
+|![Alt text](1.gif)|![Alt text](2.gif)   |![Alt text](3.gif )|
+ 
 
-
-|  Notification   |  Amount of Activity |  Bird Eye View    |
-|:---------------:|:-------------------:|:-----------------:|
-|      gif        |           gif       |        gif        |
+|  Notification    |  Amount of Activity |  Bird Eye View    |
+|:----------------:|:-------------------:|:-----------------:|
+|![Alt text](4.gif)|![Alt text](5.gif)   |![Alt text](6.gif) |
 
 # 4. Expectation[↑](https://github.com/sts07142/senior_project#index)
 ## 4-1. Expectation
@@ -136,11 +136,11 @@
 
 |Understanding the daily life of my child|Minimization of personal information|
 |:--------------------------------------:|:----------------------------------:|
-|![Alt text](assets/image-23.png)               |![Alt text](assets/image-24.png)           |
+|![Alt text](assets/image-23.png)        |![Alt text](assets/image-24.png)    |
 
-|Understanding the child   |Trust between parents and childcare center|
-|:------------------------:|:----------------------------------------:|
-|![Alt text](assets/image-25.png) |![Alt text](assets/image-26.png)                 |
+|Understanding the child          |Trust between parents and childcare center|
+|:-------------------------------:|:----------------------------------------:|
+|![Alt text](assets/image-25.png) |![Alt text](assets/image-26.png)          |
 
 </div>
 
@@ -148,13 +148,13 @@
 
 <div align=center>
 
-|Personal Identification  |Re-ID problem            |
-|:-----------------------:|:-----------------------:|
+|Personal Identification         |Re-ID problem                   |
+|:------------------------------:|:------------------------------:|
 |![Alt text](assets/image-27.png)|![Alt text](assets/image-28.png)|
 
-|Automatic background recognition|Reinforcement Model     |
-|:------------------------------:|:----------------------:|
-|![Alt text](assets/image-29.png)      |![Alt text](assets/image-30.png)|
+|Automatic background recognition|Reinforcement Model             |
+|:------------------------------:|:------------------------------:|
+|![Alt text](assets/image-29.png)|![Alt text](assets/image-30.png)|
 
 </div>
 
