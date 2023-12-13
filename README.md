@@ -122,12 +122,12 @@
 
 |  Sign Up/Login   |  Register Child     |  Set Main Child   |
 |:----------------:|:-------------------:|:-----------------:|
-|![Alt text](1.gif)|![Alt text](2.gif)   |![Alt text](3.gif )|
+|![Alt text](assets/1.gif)|![Alt text](assets/2.gif)   |![Alt text](assets/3.gif )|
  
 
 |  Notification    |  Amount of Activity |  Bird Eye View    |
 |:----------------:|:-------------------:|:-----------------:|
-|![Alt text](4.gif)|![Alt text](5.gif)   |![Alt text](6.gif) |
+|![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
 
 # 4. Expectation[↑](https://github.com/sts07142/senior_project#index)
 ## 4-1. Expectation
