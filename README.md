@@ -1,9 +1,9 @@
-<a href="https://github.com/sts07142/senior_project/wiki/GurdianWatch">WIKI</a>
-# 2023 Gachon univ. SW senior_project '**GurdianWatch**'
+<a href="https://github.com/sts07142/senior_project/wiki/GuardianWatch">WIKI</a>
+# 2023 Gachon univ. SW senior_project '**GuardianWatch**'
 ***
-# GurdianWatch
+# GuardianWatch
 * ### A monitoring system uses AI and Multi-Object Tracking to overcome the limitations of safety management at childcare centers
-* [GurdianWatch.pdf](https://github.com/sts07142/senior_project/files/11783818/1.C-1.pdf)<br>
+* [GuardianWatch.pdf](https://github.com/sts07142/senior_project/files/11783818/1.C-1.pdf)<br>
 * [Youtube](https://youtu.be/cxkx-hbuiXk)
 
 > Members 
@@ -11,25 +11,25 @@
 
 ***
 # Index
-### [1. Background & Motivation](https://github.com/sts07142/senior_project/wiki/GurdianWatch#1-background--motivation-1)
-> [a. Background](https://github.com/sts07142/senior_project/wiki/GurdianWatch#a-background)<br>
-> [b. Motivation](https://github.com/sts07142/senior_project/wiki/GurdianWatch#b-motivation)
-### [2. Overview](https://github.com/sts07142/senior_project/wiki/GurdianWatch#2-overview-1)
-> [Mobile APP UI](https://github.com/sts07142/senior_project/wiki/GurdianWatch#2gurdianwatchs-mobile-app-ui)
->> [1. Main](https://github.com/sts07142/senior_project/wiki/GurdianWatch#1-main)<br>
->> [2. Child List](https://github.com/sts07142/senior_project/wiki/GurdianWatch#2child-list)<br>
->> [3. Register child](https://github.com/sts07142/senior_project/wiki/GurdianWatch#3register-child)<br>
->> [4. Notification](https://github.com/sts07142/senior_project/wiki/GurdianWatch#4-notification)<br>
->> [5. Heat Map](https://github.com/sts07142/senior_project/wiki/GurdianWatch#5heat-map)<br>
->> [6. Activity Analysis](https://github.com/sts07142/senior_project/wiki/GurdianWatch#6activity-analysis)
-### [3. System](https://github.com/sts07142/senior_project/wiki/GurdianWatch#3-system-1)
-> [Development Components](https://github.com/sts07142/senior_project/wiki/GurdianWatch#development-components)<br>
-> [Development Contents](https://github.com/sts07142/senior_project/wiki/GurdianWatch#development-contents)
-### [4. Plan](https://github.com/sts07142/senior_project/wiki/GurdianWatch#4-plan-1)
-### [5. Expectation](https://github.com/sts07142/senior_project/wiki/GurdianWatch#5-expectation-1)
+### [1. Background & Motivation](https://github.com/sts07142/senior_project/wiki/GuardianWatch#1-background--motivation-1)
+> [a. Background](https://github.com/sts07142/senior_project/wiki/GuardianWatch#a-background)<br>
+> [b. Motivation](https://github.com/sts07142/senior_project/wiki/GuardianWatch#b-motivation)
+### [2. Overview](https://github.com/sts07142/senior_project/wiki/GuardianWatch#2-overview-1)
+> [Mobile APP UI](https://github.com/sts07142/senior_project/wiki/GuardianWatch#2Guardianwatchs-mobile-app-ui)
+>> [1. Main](https://github.com/sts07142/senior_project/wiki/GuardianWatch#1-main)<br>
+>> [2. Child List](https://github.com/sts07142/senior_project/wiki/GuardianWatch#2child-list)<br>
+>> [3. Register child](https://github.com/sts07142/senior_project/wiki/GuardianWatch#3register-child)<br>
+>> [4. Notification](https://github.com/sts07142/senior_project/wiki/GuardianWatch#4-notification)<br>
+>> [5. Heat Map](https://github.com/sts07142/senior_project/wiki/GuardianWatch#5heat-map)<br>
+>> [6. Activity Analysis](https://github.com/sts07142/senior_project/wiki/GuardianWatch#6activity-analysis)
+### [3. System](https://github.com/sts07142/senior_project/wiki/GuardianWatch#3-system-1)
+> [Development Components](https://github.com/sts07142/senior_project/wiki/GuardianWatch#development-components)<br>
+> [Development Contents](https://github.com/sts07142/senior_project/wiki/GuardianWatch#development-contents)
+### [4. Plan](https://github.com/sts07142/senior_project/wiki/GuardianWatch#4-plan-1)
+### [5. Expectation](https://github.com/sts07142/senior_project/wiki/GuardianWatch#5-expectation-1)
 ***
 
-# [1. Background & Motivation](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+# [1. Background & Motivation](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 ## a. Background
 * ### It is the recent increase in _**child abuse**_
 * ### _**Reliability**_ problems in daycare centers
@@ -41,7 +41,7 @@
 * ### In order to avoid legal responsibility for abuse, problems such as <br>_damage to CCTV storage devices_ or _refusal to submit_ them are occurring.
 > ### Need for a new monitoring system that improved the shortcomings of the existing system <br> CCTV-related problems and managing data using public servers that others could not touch.
 
-# [2. Overview](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+# [2. Overview](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 ## - Intelligent Childcare Center Safety Monitoring System
 ## 1.Detect / Trace child's location and behavior and inform your guardian of your child's situation in real-time
 * ## Children may not be able to properly convey their situation to their parents or guardians due to lack of communication skills
@@ -49,7 +49,7 @@
 Second, allowing teachers and parents to quickly understand and respond to their children's situations<br><br>
 And through this, information on individual characteristics, activity volume, situation, and status analyzed is provided to parents and managers.<br>
 This will allow students to receive education in a safer environment, and parents and teachers will be able to manage their children in a more efficient system.
-## [2.GurdianWatch's Mobile APP UI](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+## [2.GuardianWatch's Mobile APP UI](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 ### 1. Main
 ![image](https://github.com/sts07142/senior_project/assets/87844358/c7441cfe-b280-4207-88f4-66a69116e9b9)
 ### 2.Child List
@@ -63,14 +63,14 @@ This will allow students to receive education in a safer environment, and parent
 ### 6.Activity Analysis
 ![image](https://github.com/sts07142/senior_project/assets/87844358/9a0cde53-6fa5-4360-ab5e-23a37073c1ad)
 
-# [3. System](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+# [3. System](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 * ## Overall System Implementation Projections
 ![image](https://github.com/sts07142/senior_project/assets/87844358/d58eb6d3-e74f-493b-899f-7346f6d1d0da)
 ### 1.In this system, children's video information is transmitted to the server in real time through CCTV at the childcare center.
 ### 2.These image information is analyzed by MOT technology on the server, and individuals are identified using object matching technology using Bluetooth tags, and information of each object is stored in the DB.
 ### 3.The analysis is sent as a notification to the client app via post-processing.
 
-* ## [Development Components](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+* ## [Development Components](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 ### 1. Servers
 > * Video Analysis Server<br>
 > * DB Mapping Server<br>
@@ -89,7 +89,7 @@ This will allow students to receive education in a safer environment, and parent
 > * Receive Notification
 > * Confirm Situation
 
-* ## [Development Contents](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+* ## [Development Contents](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 ### 1. Software
 > * YOLO
 >> * Multiple-Object Tracking
@@ -108,13 +108,13 @@ This will allow students to receive education in a safer environment, and parent
 > * Teachers in childcare center
 
 
-# [4. Plan](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+# [4. Plan](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 * ## Montly
 ![image](https://github.com/sts07142/senior_project/assets/87844358/f7153715-6c95-4517-a5b8-799b40a60b16)
 * ## Weekly
 ![image](https://github.com/sts07142/senior_project/assets/87844358/be79da46-a034-4736-8e07-aaeb3639f205)
 
-# [5. Expectation](https://github.com/sts07142/senior_project/wiki/GurdianWatch#Index)
+# [5. Expectation](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
 ### 1. Political conflict
 > It seems that it can be solved by creating a consent form to use the Guardian Watch. We hope that only those who have approved this agreement will be able to make the system available to them, thereby compromising legal issues. In addition, since actual image information is masked and delivered through location tracking, it is expected that it will be able to cope with problems related to personal information.
 
