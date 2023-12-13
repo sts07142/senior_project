@@ -8,11 +8,11 @@
 
 ***
 # Index
-### 1. Purpose & Necessity[↗️](https://github.com/sts07142/senior_project/wiki/GuardianWatch#1-background--motivation-1)
-### 2. Objective & Output[↗️](https://github.com/sts07142/senior_project/wiki/GuardianWatch#2-overview-1)
-### 3. Result[↗️](https://github.com/sts07142/senior_project/wiki/GuardianWatch#3-system-1)
-### 4. Expectation[↗️](https://github.com/sts07142/senior_project/wiki/GuardianWatch#4-plan-1)
-### 5. Award[↗️](https://github.com/sts07142/senior_project/wiki/GuardianWatch#5-expectation-1)
+### 1. Purpose & Necessity[↗️](https://github.com/sts07142/senior_project/GuardianWatch#1-background--motivation-1)
+### 2. Objective & Output[↗️](https://github.com/sts07142/senior_project/GuardianWatch#2-overview-1)
+### 3. Result[↗️](https://github.com/sts07142/senior_project/GuardianWatch#3-system-1)
+### 4. Expectation[↗️](https://github.com/sts07142/senior_project/GuardianWatch#4-plan-1)
+### 5. Award[↗️](https://github.com/sts07142/senior_project/GuardianWatch#5-expectation-1)
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-# 1. Purpose & Necessity[↑](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
+# 1. Purpose & Necessity[↑](https://github.com/sts07142/senior_project/GuardianWatch#Index)
 
 ## 1-1 #01. Curious of child’s daily life
 * ### Lack of communication skills
@@ -60,7 +60,7 @@
 
 <br>
 
-# 2. Objective & Output[↑](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
+# 2. Objective & Output[↑](https://github.com/sts07142/senior_project/GuardianWatch#Index)
 ## 2-1. Objective
 ### System Archiecture
 <div align=center>
@@ -111,7 +111,7 @@
 
 </div>
 
-# 3. Result[↑](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
+# 3. Result[↑](https://github.com/sts07142/senior_project/GuardianWatch#Index)
 
 |  Sign Up/Login  |  Register Child     |  Set Main Child   |
 |:---------------:|:-------------------:|:-----------------:|
@@ -122,7 +122,7 @@
 |:---------------:|:-------------------:|:-----------------:|
 |      gif        |           gif       |        gif        |
 
-# 4. Expectation[↑](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
+# 4. Expectation[↑](https://github.com/sts07142/senior_project/GuardianWatch#Index)
 ## 4-1. Expectation
 
 <div align=center>
@@ -151,7 +151,7 @@
 
 </div>
 
-# 5. Award[↑](https://github.com/sts07142/senior_project/wiki/GuardianWatch#Index)
+# 5. Award[↑](https://github.com/sts07142/senior_project/GuardianWatch#Index)
 <div align=center>
 
 ### [은상] [K-디지털 챌린지 : NET 챌린지 캠프 시즌10]
