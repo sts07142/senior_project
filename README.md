@@ -1,6 +1,6 @@
 # 2023 Gachon univ. SW senior_project2 '**GuardianWatch**'
 # GuardianWatch
-* ### Intelligent Childcare Center Safety Monitoring System Using Multi-Object Tracking Technology
+### Intelligent Childcare Center Safety Monitoring System Using Multi-Object Tracking Technology
 
 <details open>
 <summary>&nbsp;<b>Members</b></summary>
