@@ -5,8 +5,11 @@
 <details open>
 <summary>&nbsp;<b>Members</b></summary>
 
->> 201935085 유인재 <br>  202135588 최지우 <br> 201033095 김경민 <br> 201935011 김관일
+> 201935085 유인재 <br>  202135588 최지우 <br> 201033095 김경민 <br> 201935011 김관일
 </details>
+
+
+
 
 ***
 # Index
@@ -22,7 +25,7 @@
 
 <br>
 
-<details>
+<details open>
 <summary>&nbsp;<b>Descriptions</b></summary>
 
 # 1. Purpose & Necessity[↑](https://github.com/sts07142/senior_project#index)
