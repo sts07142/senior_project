@@ -32,9 +32,7 @@
 
 </summary>
 
-<html>
-<iframe loading="lazy" src="https://www.youtube.com/embed/SQucFY-N1go" title="시연영상 GuardianWatch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</html>
+[![시연영상](https://img.youtube.com/vi/SQucFY-N1go/0.jpg)](https://www.youtube.com/watch?v=SQucFY-N1go)
 
 </details>
 
