@@ -21,13 +21,15 @@
 <br>
 
 ***
-
+# - Descriptions
 <br>
 
-<details open>
-<summary><b>Descriptions</b></summary>
+<details>
+<summary>
 
 # 1. Purpose & Necessity[↑](https://github.com/sts07142/senior_project#index)
+
+</summary>
 
 ## 1-1 #01. Curious of child’s daily life
 * ### Lack of communication skills
@@ -66,7 +68,14 @@
 
 <br>
 
+</details>
+<details>
+<summary>
+
 # 2. Objective & Output[↑](https://github.com/sts07142/senior_project#index)
+
+</summary>
+
 ## 2-1. Objective
 ### System Archiecture
 <div align=center>
@@ -116,7 +125,13 @@
 
 </div>
 
+</details>
+<details>
+<summary>
+
 # 3. Result[↑](https://github.com/sts07142/senior_project#index)
+
+</summary>
 
 |Sign Up/Login            |Register Child              |Set Main Child            |
 |:-----------------------:|:--------------------------:|:------------------------:|
@@ -126,7 +141,14 @@
 |:-----------------------:|:--------------------------:|:------------------------:|
 |![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
 
+</details>
+<details>
+<summary>
+
 # 4. Expectation[↑](https://github.com/sts07142/senior_project#index)
+
+</summary>
+
 ## 4-1. Expectation
 
 <div align=center>
@@ -153,7 +175,14 @@
 
 </div>
 
+</details>
+<details>
+<summary>
+
 # 5. Award[↑](https://github.com/sts07142/senior_project#index)
+
+</summary>
+
 <div align=center>
 
 ### [은상] [K-디지털 챌린지 : NET 챌린지 캠프 시즌10]
