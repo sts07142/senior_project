@@ -3,7 +3,7 @@
 ### Intelligent Childcare Center Safety Monitoring System Using Multi-Object Tracking Technology
 
 <details open>
-<summary>&nbsp;<b>Members</b></summary>
+<summary><b>Members</b></summary>
 <b> 201935085 유인재 <br> 202135588 최지우 <br> 201033095 김경민 <br> 201935011 김관일 </b>
 </details>
 
@@ -25,7 +25,7 @@
 <br>
 
 <details open>
-<summary>&nbsp;<b>Descriptions</b></summary>
+<summary><b>Descriptions</b></summary>
 
 # 1. Purpose & Necessity[↑](https://github.com/sts07142/senior_project#index)
 
@@ -118,12 +118,11 @@
 
 # 3. Result[↑](https://github.com/sts07142/senior_project#index)
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sign Up/Login&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Register Child&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set Main Child&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|:-----------------------:|:-----------------------:|:-----------------------:|
-|<img src="assets/1.gif"/>|<img src="assets/2.gif"/>|<img src="assets/3.gif"/>|
-
-|      Notification       |      Amount of Activity    |      Bird Eye View       |
+||||
 |:-----------------------:|:--------------------------:|:------------------------:|
+|Sign Up/Login            |Register Child              |Set Main Child            |
+|<img src="assets/1.gif"/>|<img src="assets/2.gif"/>   |<img src="assets/3.gif"/> |
+|      Notification       |      Amount of Activity    |      Bird Eye View       |
 |![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
 
 # 4. Expectation[↑](https://github.com/sts07142/senior_project#index)
