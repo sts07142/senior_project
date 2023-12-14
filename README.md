@@ -121,7 +121,9 @@
 |Sign Up/Login            |Register Child              |Set Main Child            |
 |:-----------------------:|:--------------------------:|:------------------------:|
 |<img src="assets/1.gif"/>|<img src="assets/2.gif"/>   |<img src="assets/3.gif"/> |
+
 |      Notification       |      Amount of Activity    |      Bird Eye View       |
+|:-----------------------:|:--------------------------:|:------------------------:|
 |![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
 
 # 4. Expectation[↑](https://github.com/sts07142/senior_project#index)
@@ -129,8 +131,9 @@
 
 <div align=center>
 
+|||
+|:--------------------------------------:|:----------------------------------------:|
 |Understanding the daily life of my child|Minimization of personal information      |
-|:-----------------------:|:--------------------------:|:------------------------:|
 |![Alt text](assets/image-23.png)        |![Alt text](assets/image-24.png)          |
 |Understanding the child                 |Trust between parents and childcare center|
 |![Alt text](assets/image-25.png)        |![Alt text](assets/image-26.png)          |
