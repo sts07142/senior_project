@@ -11,11 +11,33 @@
 <b> 201935085 유인재 <br> 202135588 최지우 <br> 201033095 김경민 <br> 201935011 김관일 </b>
 </details>
 
-<center>
+<div align=center>
 
-# [> 수상 <](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award%EF%B8%8F-1)
+<details>
+<summary>
 
-</center>
+# 수상
+
+</summary>
+
+### [은상] [K-디지털 챌린지 : NET 챌린지 캠프 시즌10]
+![Alt text](assets/image-31.png)
+
+</details>
+
+<details>
+<summary>
+
+# 시연영상
+
+</summary>
+
+{% include embed/youtube.html id='SQucFY-N1go' %}
+
+
+</details>
+
+</div>
 
 ***
 # - Index
