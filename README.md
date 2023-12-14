@@ -1,22 +1,29 @@
 # 2023 Gachon univ. SW senior_project2 '**GuardianWatch**'
 # GuardianWatch
-### Intelligent Childcare Center Safety Monitoring System Using Multi-Object Tracking Technology
+### Intelligent Childcare Center Safety Monitoring System 
+<div align=right>
+
+### Using Multi-Object Tracking Technology
+</div>
 
 <details open>
 <summary><b>Members</b></summary>
 <b> 201935085 유인재 <br> 202135588 최지우 <br> 201033095 김경민 <br> 201935011 김관일 </b>
 </details>
 
+<center>
+
 # [> 수상 <](https://github.com/sts07142/senior_project#5-award)
 
+</center>
 
 ***
-# Index
-## 1. Purpose & Necessity[↗️](https://github.com/sts07142/senior_project#1-purpose--necessity)
-## 2. Objective & Output[↗️](https://github.com/sts07142/senior_project#2-objective--output)
-## 3. Result[↗️](https://github.com/sts07142/senior_project#3-result)
-## 4. Expectation[↗️](https://github.com/sts07142/senior_project#4-expectation)
-## 5. Award[↗️](https://github.com/sts07142/senior_project#5-award)
+# - Index
+## 1. Purpose & Necessity[⬇️](https://github.com/sts07142/senior_project#1-purpose--necessity)
+## 2. Objective & Output[⬇️](https://github.com/sts07142/senior_project#2-objective--output)
+## 3. Result[⬇️](https://github.com/sts07142/senior_project#3-result)
+## 4. Expectation[⬇️](https://github.com/sts07142/senior_project#4-expectation)
+## 5. Award[⬇️](https://github.com/sts07142/senior_project#5-award)
 
 <br>
 
@@ -27,7 +34,7 @@
 <details>
 <summary>
 
-## 1. Purpose & Necessity[↑](https://github.com/sts07142/senior_project#index)
+## 1. Purpose & Necessity[⬆️](https://github.com/sts07142/senior_project#index)
 
 </summary>
 
@@ -72,7 +79,7 @@
 <details>
 <summary>
 
-## 2. Objective & Output[↑](https://github.com/sts07142/senior_project#index)
+## 2. Objective & Output[⬆️](https://github.com/sts07142/senior_project#index)
 
 </summary>
 
@@ -129,7 +136,7 @@
 <details>
 <summary>
 
-## 3. Result[↑](https://github.com/sts07142/senior_project#index)
+## 3. Result[⬆️](https://github.com/sts07142/senior_project#index)
 
 </summary>
 
@@ -145,7 +152,7 @@
 <details>
 <summary>
 
-## 4. Expectation[↑](https://github.com/sts07142/senior_project#index)
+## 4. Expectation[⬆️](https://github.com/sts07142/senior_project#index)
 
 </summary>
 
@@ -179,7 +186,7 @@
 <details>
 <summary>
 
-## 5. Award[↑](https://github.com/sts07142/senior_project#index)
+## 5. Award[⬆️](https://github.com/sts07142/senior_project#index)
 
 </summary>
 
