@@ -19,11 +19,11 @@
 
 ***
 # - Index
-## 1. Purpose & Necessity[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#1-purpose--necessity)
-## 2. Objective & Output[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#2-objective--output)
-## 3. Result[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#3-result)
-## 4. Expectation[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#4-expectation)
-## 5. Award[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award)
+## 1. Purpose & Necessity[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#1-purpose--necessity%EF%B8%8F-1)
+## 2. Objective & Output[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#2-objective--output%EF%B8%8F-1)
+## 3. Result[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#3-result%EF%B8%8F-1)
+## 4. Expectation[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#4-expectation%EF%B8%8F-1)
+## 5. Award[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award%EF%B8%8F-1)
 
 <br>
 
