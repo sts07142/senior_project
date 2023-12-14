@@ -62,7 +62,6 @@
 <div align=center>
 
 ![Alt text](assets/image-6.png)
-
 </div>
 
 <br>
