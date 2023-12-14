@@ -71,7 +71,7 @@
 ### System Archiecture
 <div align=center>
 
-![Alt text](assets/image-7.png)![Alt text](image.png)
+![Alt text](assets/image-7.png)
 
 </div>
 
