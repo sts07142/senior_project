@@ -84,7 +84,6 @@
 </div>
 
 ## 2-3. Output
-### Re-ID problem in M.O.T
 <div align=center>
 
 ![Alt text](assets/image-9.png)
