@@ -31,7 +31,7 @@
 # - Descriptions
 <br>
 
-<details>
+<details open>
 <summary>
 
 ## 1. Purpose & Necessity[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
@@ -76,7 +76,7 @@
 <br>
 
 </details>
-<details>
+<details open>
 <summary>
 
 ## 2. Objective & Output[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
@@ -133,7 +133,7 @@
 </div>
 
 </details>
-<details>
+<details open>
 <summary>
 
 ## 3. Result[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
@@ -149,7 +149,7 @@
 |![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
 
 </details>
-<details>
+<details open>
 <summary>
 
 ## 4. Expectation[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
@@ -183,7 +183,7 @@
 </div>
 
 </details>
-<details>
+<details open>
 <summary>
 
 ## 5. Award[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
