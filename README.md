@@ -13,7 +13,7 @@
 
 <center>
 
-# [> 수상 <](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award)
+# [> 수상 <](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award%EF%B8%8F-1)
 
 </center>
 
