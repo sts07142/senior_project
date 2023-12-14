@@ -32,8 +32,6 @@
 
 </summary>
 
-<!-- {% include embed/youtube.html id='SQucFY-N1go' %} -->
-
 <iframe
   class="embed-video youtube"
   loading="lazy"
