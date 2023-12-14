@@ -32,7 +32,17 @@
 
 </summary>
 
-{% include embed/youtube.html id='SQucFY-N1go' %}
+<!-- {% include embed/youtube.html id='SQucFY-N1go' %} -->
+
+<iframe
+  class="embed-video youtube"
+  loading="lazy"
+  src="https://www.youtube.com/embed/SQucFY-N1go"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
 
 
 </details>
