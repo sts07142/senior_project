@@ -13,17 +13,17 @@
 
 <center>
 
-# [> 수상 <](https://github.com/sts07142/senior_project#5-award)
+# [> 수상 <](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award)
 
 </center>
 
 ***
 # - Index
-## 1. Purpose & Necessity[⬇️](https://github.com/sts07142/senior_project#1-purpose--necessity)
-## 2. Objective & Output[⬇️](https://github.com/sts07142/senior_project#2-objective--output)
-## 3. Result[⬇️](https://github.com/sts07142/senior_project#3-result)
-## 4. Expectation[⬇️](https://github.com/sts07142/senior_project#4-expectation)
-## 5. Award[⬇️](https://github.com/sts07142/senior_project#5-award)
+## 1. Purpose & Necessity[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#1-purpose--necessity)
+## 2. Objective & Output[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#2-objective--output)
+## 3. Result[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#3-result)
+## 4. Expectation[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#4-expectation)
+## 5. Award[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award)
 
 <br>
 
@@ -34,7 +34,7 @@
 <details>
 <summary>
 
-## 1. Purpose & Necessity[⬆️](https://github.com/sts07142/senior_project#index)
+## 1. Purpose & Necessity[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
 
 </summary>
 
@@ -79,7 +79,7 @@
 <details>
 <summary>
 
-## 2. Objective & Output[⬆️](https://github.com/sts07142/senior_project#index)
+## 2. Objective & Output[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
 
 </summary>
 
@@ -136,7 +136,7 @@
 <details>
 <summary>
 
-## 3. Result[⬆️](https://github.com/sts07142/senior_project#index)
+## 3. Result[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
 
 </summary>
 
@@ -152,7 +152,7 @@
 <details>
 <summary>
 
-## 4. Expectation[⬆️](https://github.com/sts07142/senior_project#index)
+## 4. Expectation[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
 
 </summary>
 
@@ -186,7 +186,7 @@
 <details>
 <summary>
 
-## 5. Award[⬆️](https://github.com/sts07142/senior_project#index)
+## 5. Award[⬆️](https://github.com/sts07142/senior_project?tab=readme-ov-file#--index)
 
 </summary>
 
