@@ -132,12 +132,11 @@
 
 <div align=center>
 
-|Understanding the daily life of my child|Minimization of personal information|
+|||
 |:--------------------------------------:|:----------------------------------:|
+|Understanding the daily life of my child|Minimization of personal information|
 |![Alt text](assets/image-23.png)        |![Alt text](assets/image-24.png)    |
-
 |Understanding the child          |Trust between parents and childcare center|
-|:-------------------------------:|:----------------------------------------:|
 |![Alt text](assets/image-25.png) |![Alt text](assets/image-26.png)          |
 
 </div>
@@ -146,12 +145,11 @@
 
 <div align=center>
 
+|||
+|:--------------------------------------:|:----------------------------------:|
 |Personal Identification         |Re-ID problem                   |
-|:------------------------------:|:------------------------------:|
 |![Alt text](assets/image-27.png)|![Alt text](assets/image-28.png)|
-
 |Automatic background recognition|Reinforcement Model             |
-|:------------------------------:|:------------------------------:|
 |![Alt text](assets/image-29.png)|![Alt text](assets/image-30.png)|
 
 </div>
