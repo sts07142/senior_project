@@ -118,12 +118,11 @@
 
 # 3. Result[↑](https://github.com/sts07142/senior_project#index)
 
-|  Sign Up/Login          |  Register Child            |  Set Main Child          |
-|:-----------------------:|:--------------------------:|:------------------------:|
-|![Alt text](assets/1.gif)|![Alt text](assets/2.gif)   |![Alt text](assets/3.gif )|
- 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sign Up/Login&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Register Child&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set Main Child&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|<img src="assets/1.gif"/>|<img src="assets/2.gif"/>|<img src="assets/3.gif"/>|
 
-|  Notification           |  Amount of Activity        |  Bird Eye View           |
+|      Notification       |      Amount of Activity    |      Bird Eye View       |
 |:-----------------------:|:--------------------------:|:------------------------:|
 |![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
 
