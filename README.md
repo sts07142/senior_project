@@ -163,11 +163,11 @@
 
 |Sign Up/Login            |Register Child              |Set Main Child            |
 |:-----------------------:|:--------------------------:|:------------------------:|
-|<img src="assets/1.gif"/>|<img src="assets/2.gif"/>   |<img src="assets/3.gif"/> |
+|<img src="assets/1.gif"/>|&nbsp;<img src="assets/2.gif"/>&nbsp;&nbsp;   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/3.gif"/>&nbsp;&nbsp;|
 
 |      Notification       |      Amount of Activity    |      Bird Eye View       |
 |:-----------------------:|:--------------------------:|:------------------------:|
-|![Alt text](assets/4.gif)|![Alt text](assets/5.gif)   |![Alt text](assets/6.gif) |
+|![Alt text](assets/4.gif)|&nbsp;![Alt text](assets/5.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;![Alt text](assets/6.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 </details>
 <details open>
