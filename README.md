@@ -91,6 +91,15 @@
 
 </div>
 
+## - 03. `Limited` CCTV Access
+* ### Limited access due to `privacy` 
+
+<div align=center>
+
+![Alt text](assets/image-12.png)
+
+</div>
+
 ## - `Introduction`
 ### **GuardianWatch** = *Guardian* + *Watch*
 - ### : Intelligent Childcare Center Safety Monitoring System.
