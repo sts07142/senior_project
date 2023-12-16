@@ -91,17 +91,16 @@
 
 </div>
 
-## - 03. `Limited` CCTV Access
-* ### Limited access due to `privacy` 
-
-<div align=center>
-
-![Alt text](assets/image-12.png)
-
-</div>
-
-## - Introduction
-### Intelligent Childcare Center Safety Monitoring System
+## - `Introduction`
+### **GuardianWatch** = *Guardian* + *Watch*
+- ### : Intelligent Childcare Center Safety Monitoring System.
+## A system that analyzes the `daily life` of a child at a `childcare center`.
+> ### You can check the child's activities. <br>
+### 1. `Heatmap` - Visualization of Where child Stay <br> 
+### 2. `Consumption Calories` - Estimated Calories of Consumption as Moving <br> 
+### 3. `Movement Path` - Visualization of a moving path <br> 
+### 4. `BEV`(**B***ird***E***ye***V***iew*) `Video` - Graphic video of children's activities <sub>**(minimizing personal information)**</sub> <br> 
+### 5. `Notification` - Provide notifications for activities
 
 <div align=center>
 
