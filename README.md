@@ -1,14 +1,31 @@
-# 2023 Gachon univ. SW senior_project2 '**GuardianWatch**'
-# GuardianWatch
-### Intelligent Childcare Center Safety Monitoring System 
-<div align=right>
+# 2023 Gachon univ. SW senior_project2 `GuardianWatch`
+## GuardianWatch
+### : Intelligent `Childcare Center` Safety `Monitoring` System
+<div align=center>
 
-### Using Multi-Object Tracking Technology
+### Using `Multi-Object Tracking` Technology.
 </div>
 
+> ### A system that analyzes the `daily life` of a child at a `childcare center`.
+> ### You can check the child's activities. <br>
+>> ### 1. `Heatmap` - Visualization of Where child Stay <br> 
+>> ### 2. `Consumption Calories` - Estimated Calories of Consumption as Moving <br> 
+>> ### 3. `Movement Path` - Visualization of a moving path <br> 
+>> ### 4. `BEV`(**B**ird**E**ye**V**iew) `Video` - Graphic video of children's activities <sub>**(minimizing personal information)**</sub> <br> 
+>> ### 5. `Notification` - Provide notifications for activities
+
 <details open>
-<summary><b>Members</b></summary>
-<b> 201935085 유인재 <br> 202135588 최지우 <br> 201033095 김경민 <br> 201935011 김관일 </b>
+<summary><b>
+
+## `Members`
+
+</b></summary>
+<b> 
+### 201935085 유인재 <br> 
+### 202135588 최지우 <br> 
+### 201033095 김경민 <br> 
+### 201935011 &nbsp;김관일 
+</b>
 </details>
 
 <div align=center>
@@ -16,7 +33,7 @@
 <details>
 <summary>
 
-# 수상
+# `수상`
 
 </summary>
 
@@ -28,7 +45,7 @@
 <details>
 <summary>
 
-# 시연영상
+# `시연영상`
 
 </summary>
 
@@ -47,9 +64,6 @@
 ## 5. Award[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#5-award%EF%B8%8F-1)
 
 <br>
-
-***
-# - Descriptions
 <br>
 
 <details open>
@@ -59,8 +73,8 @@
 
 </summary>
 
-## 1-1 #01. Curious of child’s daily life
-* ### Lack of communication skills
+## - 01. `Curious` of child’s `daily life`
+* ### `Lack` of communication skills
 
 <div align=center>
 
@@ -68,8 +82,8 @@
 
 </div>
 
-## 1-1 #02. Increase Abuse in Childcare center
-* ### Check CCTV after abuse
+## - 02. Increase `Abuse` in Childcare center
+* ### Check `CCTV` after abuse
 
 <div align=center>
 
@@ -77,8 +91,8 @@
 
 </div>
 
-## 1-1 #03. Limited CCTV Access
-* ### Limited access due to privacy 
+## - 03. `Limited` CCTV Access
+* ### Limited access due to `privacy` 
 
 <div align=center>
 
@@ -86,8 +100,8 @@
 
 </div>
 
-## 1-2. Introduction
-* ### Intelligent Childcare Center Safety Monitoring System
+## - Introduction
+### Intelligent Childcare Center Safety Monitoring System
 
 <div align=center>
 
@@ -104,7 +118,7 @@
 
 </summary>
 
-## 2-1. Objective
+## - `Objective`
 ### System Archiecture
 <div align=center>
 
@@ -112,15 +126,15 @@
 
 </div>
 
-## 2-2. Detailed Objective
-### Re-ID problem in M.O.T
+## - `Detailed` Objective
+### `Re-ID` problem in M.O.T
 <div align=center>
 
 ![Alt text](assets/image-8.png)
 
 </div>
 
-## 2-3. Output
+## - `Output`
 <div align=center>
 
 ![Alt text](assets/image-9.png)
@@ -177,7 +191,7 @@
 
 </summary>
 
-## 4-1. Expectation
+## - `Expectation`
 
 <div align=center>
 
@@ -190,7 +204,7 @@
 
 </div>
 
-## 4-2. Future Work
+## - `Future Work`
 
 <div align=center>
 
