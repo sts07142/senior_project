@@ -55,6 +55,19 @@
 
 </div>
 
+<details>
+<summary>
+
+> ### `소개영상`
+
+</summary>
+
+|졸업작품 1|졸업작품 2|
+|:---:|:---:|
+|[![시연영상](https://img.youtube.com/vi/cxkx-hbuiXk/0.jpg)](https://www.youtube.com/watch?v=cxkx-hbuiXk)|[![시연영상](https://img.youtube.com/vi/ObZIbi8ztaE/0.jpg)](https://www.youtube.com/watch?v=ObZIbi8ztaE)|
+
+</details>
+
 ***
 # - Index
 ## 1. Purpose & Necessity[⬇️](https://github.com/sts07142/senior_project?tab=readme-ov-file#1-purpose--necessity%EF%B8%8F-1)
